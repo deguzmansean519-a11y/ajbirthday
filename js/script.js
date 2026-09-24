@@ -8,7 +8,7 @@ const CONFIG = {
   // Add as many photos as you like — same folder as this file.
   // Give each one its own little caption that appears once it's scratched clear.
   photos: [
-    { src: "images/photo1.png",caption: "The day we met 💛" },
+    { src: "images/photo1.png",caption: "The first kiss 😜 " },
     { src: "images/photo2.png", caption: "My favorite trip with you ✈️" },
     { src: "images/photo3.png", caption: "favorite pic😍" }
   ],
